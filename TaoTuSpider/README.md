@@ -1,6 +1,7 @@
 # 爱套图网图片爬虫
 
 爱套图网址：www.aitaotu.com
+
 更新时间：2016年6月19日（如果后续无法运行，可能由于爱套图网站升级导致）
 
 ## 功能简介
@@ -11,7 +12,11 @@
 
 ## 截图
 
+![罗列标签](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/Screenshot%20from%202016-06-19%2021:24:48.png?raw=true)
 
+![选择标签](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/Screenshot%20from%202016-06-19%2021:25:32.png?raw=true)
+
+![多线程下载](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/Screenshot%20from%202016-06-19%2021:25:50.png?raw=true)
 
 ## 后期可添加功能
 
