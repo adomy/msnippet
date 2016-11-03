@@ -1,4 +1,4 @@
-# CodeSnippets
+# msnippets
 Some useful code snippets needed to record.
 
 ## 分述
