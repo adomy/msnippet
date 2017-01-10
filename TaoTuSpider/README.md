@@ -12,11 +12,11 @@
 
 ## 截图
 
-![罗列标签](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/Screenshot%20from%202016-06-19%2021:24:48.png?raw=true)
+![罗列标签](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/1.png?raw=true)
 
-![选择标签](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/Screenshot%20from%202016-06-19%2021:25:32.png?raw=true)
+![选择标签](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/2.png?raw=true)
 
-![多线程下载](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/Screenshot%20from%202016-06-19%2021:25:50.png?raw=true)
+![多线程下载](https://github.com/adoryn/CodeSnippets/blob/master/TaoTuSpider/Pics/Screenshots/3.png?raw=true)
 
 ## 后期可添加功能
 
